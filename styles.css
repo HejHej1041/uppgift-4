@@ -1,0 +1,31 @@
+
+#test1 {
+
+    text-align: center;}
+
+#test2 {
+    width: 300px;
+    border: 15px solid rgb(10, 29, 241);
+    padding: 50px;
+    margin-top: 200px;
+      
+    text-align: center;
+       }
+img {
+
+    width: 100px;
+    border-radius: 50px;
+     }
+p {
+    font-weight: bold;
+     }
+
+    
+.yt-video{
+    margin-top: 200px;
+    -webkit-transition: -webkit-transform 1s; 
+}
+
+.yt-video:hover{
+    -webkit-transform: rotate(360deg) translateZ(0);
+}
